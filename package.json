@@ -1,7 +1,7 @@
 {
   "name": "bitechx-llc",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple CRUD API for managing users.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
